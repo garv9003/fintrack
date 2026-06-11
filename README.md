@@ -47,7 +47,7 @@ fintrack/
 ---
 
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |----------|-------------|
@@ -82,7 +82,7 @@ fintrack/
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Dark Mode
 - Export Reports
